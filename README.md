@@ -4,7 +4,6 @@ A simple C# library for symbolic differentiation of single-variable functions.
 
 ### Table of contents
 - [Symdiff](#symdiff)
-    - [Table of contents](#table-of-contents)
   - [About The Project](#about-the-project)
     - [Known Limitations](#known-limitations)
     - [Example](#example)
