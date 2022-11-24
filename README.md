@@ -4,6 +4,7 @@ A simple C# library for symbolic differentiation of single-variable functions.
 
 ### Table of contents
 - [Symdiff](#symdiff)
+    - [Table of contents](#table-of-contents)
   - [About The Project](#about-the-project)
     - [Known Limitations](#known-limitations)
     - [Example](#example)
@@ -98,7 +99,7 @@ Choose your favourite:
 2. Run the example: `dotnet run`
 
 **on Linux**:
-1. Clone this repo: `git clone https://github.com/akanok/symdiff.git`
+1. Clone this repo: `git clone  https://github.com/akanok/Symdiff.git`
 2. Move in the `Examples` folder: `cd Examples`
 3. Run the example: `dotnet run`
 
