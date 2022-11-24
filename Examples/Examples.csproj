@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  <!-- Put bulid and object files in a separete directory -->
+    <OutputPath>../build/examples_bin</OutputPath>
+    <IntermediateOutputPath>../build/examples_obj</IntermediateOutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AngouriMath" Version="1.4.0-preview.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Symdiff\Symdiff.csproj" />
+  </ItemGroup>
+
+</Project>

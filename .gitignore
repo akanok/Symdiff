@@ -1,0 +1,26 @@
+### Csharp ###
+
+# User-specific files
+*.rsuser
+
+# Build results
+[Bb]uild/
+[Bb]in/
+[Oo]bj/
+[Tt]est_bin/
+[Tt]est_obj/
+[Tt]est_results/
+[Ll]og/
+[Ll]ogs/
+build/examples_bin/
+build/examples_obj/
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+
+# TODO files
+TODO
+todo
+

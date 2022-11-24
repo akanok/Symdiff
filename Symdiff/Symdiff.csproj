@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  <!-- Put bulid and object files in a separete directory -->
+    <OutputPath>../build/bin</OutputPath>
+    <IntermediateOutputPath>../build/obj</IntermediateOutputPath>
+  </PropertyGroup>
+
+</Project>
